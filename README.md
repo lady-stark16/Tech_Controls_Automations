@@ -1,5 +1,3 @@
-# Tech_Controls_Automations
-empresa de domotica
 <!DOCTYPE html>
 <html lang="en">
 <head>
